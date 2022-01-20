@@ -47,6 +47,8 @@ We can't guarantee issues will be resolved right away, but we deeply appreciate 
 
 ## Code & documentation contributions
 
+> If adding a new theme, please use our [template](https://github.com/rose-pine/rose-pine-template)
+
 **Implement your changes:**
 
 - Don't add non-project metafiles. See [global gitignore](https://gist.github.com/subfuzion/db7f57fff2fb6998a16c) for best practices
