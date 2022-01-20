@@ -6,11 +6,11 @@
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
 
 <p align="center">
-  <a href="https://rosepinetheme.com/palette.html">Palette</a>
+  <a href="https://rosepinetheme.com/themes">Themes</a>
   ·
-  <a href="https://rosepinetheme.com/contributing.html#style-guide">Style guide</a>
+  <a href="https://rosepinetheme.com/palette">Palette</a>
   ·
-  <a href="https://rosepinetheme.com/contributing.html">Contributing</a>
+  <a href="https://github.com/rose-pine/.github/blob/main/contributing.md">Contributing</a>
 </p>
 
 <p align="center">
