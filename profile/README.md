@@ -18,13 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://rosepinetheme.com/palette.html#rose-pine">
-    <img src="https://raw.githubusercontent.com/rose-pine/rose-pine-theme/main/assets/palette.png" width="125" />
-  </a>
-  <a href="https://rosepinetheme.com/palette.html#rose-pine-moon">
-    <img src="https://raw.githubusercontent.com/rose-pine/rose-pine-theme/main/assets/palette-moon.png" width="125" />
-  </a>
-  <a href="https://rosepinetheme.com/palette.html#rose-pine-dawn">
-    <img src="https://raw.githubusercontent.com/rose-pine/rose-pine-theme/main/assets/palette-dawn.png" width="125" />
+  <a href="https://rosepinetheme.com/palette">
+    <img width="360" alt="Rosé Pine palette" src="https://github.com/user-attachments/assets/38381e5e-567d-47f6-879c-82011ad17505" />
   </a>
 </p>
