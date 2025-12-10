@@ -14,7 +14,7 @@
   ·
   <a href="https://rosepinetheme.com/palette">Palette</a>
   ·
-  <a href="https://github.com/rose-pine/.github/blob/main/contributing.md">Contributing</a>
+  <a href="https://github.com/rose-pine/.github/blob/main/CONTRIBUTING.md">Contributing</a>
 </p>
 
 <p align="center">
