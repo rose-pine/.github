@@ -3,7 +3,7 @@
 This project is maintained for the benefit of the community, and we're grateful for any contributions to help improve it. We require that contributors:
 
 - Be kind to all 💛
-- Follow the [Code of Conduct](./code-of-conduct.md)
+- Follow the [Code of Conduct](./CODE_OF_CONDUCT.md)
 - Respect the time and effort of maintainers and other contributors
 
 ## What to contribute
