@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://rosepinetheme.com"><img src="https://raw.githubusercontent.com/rose-pine/rose-pine-theme/main/assets/icon.png" width="80" /></a>
-  <h2 align="center">Rosé Pine Theme</h2>
+  <h2 align="center">Rosé Pine</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -14,7 +14,7 @@
   ·
   <a href="https://rosepinetheme.com/palette">Palette</a>
   ·
-  <a href="https://github.com/rose-pine/.github/blob/main/CONTRIBUTING.md">Contributing</a>
+  <a href="https://rosepinetheme.com/create">Create</a>
 </p>
 
 <p align="center">
